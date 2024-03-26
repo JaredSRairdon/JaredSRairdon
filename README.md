@@ -1,4 +1,6 @@
 ### Hi there, I'm Jared Rairdon ![](https://github.com/JaredSRairdon/JaredSRairdon/blob/main/waving-hand-emoji.gif)
+<img src="https://github.com/JaredSRairdon/JaredSRairdon/blob/main/waving-hand-emoji.gif" width="250" height="250"/>
+
 
 <!--
 **JaredSRairdon/JaredSRairdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
