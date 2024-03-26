@@ -1,5 +1,4 @@
-### Hi there, I'm Jared Rairdon ![](https://github.com/JaredSRairdon/JaredSRairdon/blob/main/waving-hand-emoji.gif)
-<img src="https://github.com/JaredSRairdon/JaredSRairdon/blob/main/waving-hand-emoji.gif" width="250" height="250"/>
+### Hi there, I'm Jared Rairdon <img src="https://github.com/JaredSRairdon/JaredSRairdon/blob/main/waving-hand-emoji.gif" width="30" height="30"/>
 
 
 <!--
